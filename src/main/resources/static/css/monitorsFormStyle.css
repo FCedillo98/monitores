@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+/* Estilos generales */
+body {
+  background-color: #222;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #000;
+  text-align: center;
+}
+
+.card {
+	
+	background-color: #555;
+}
+
+.card-body {
+	
+	background-color: #555;
+}
+
+.form-control {
+	
+	background-color: #999;
+	
+}
+
+
+
+
+/* Estilos para los botones */
+.btn {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: none;
+  background-color: #555;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-decoration: none; /* Quita el subrayado del texto en los botones */
+}
+
+.btn:hover {
+  background-color: #008000;
+}
+
+.btn-success {
+  background-color: #28a745; /* Color verde para indicar acción exitosa */
+}
+

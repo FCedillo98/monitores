@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* Estilos generales */
+body {
+  background-color: #222;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
